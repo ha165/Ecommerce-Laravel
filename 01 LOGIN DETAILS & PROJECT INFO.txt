@@ -1,0 +1,13 @@
+**Developed by Harmony Lumumba**
+
+---Admin Login Details---
+
+Email   : admin@mail.com
+Password: @BobMarley32
+
+--Customer Login Details---
+Email   : customer@mail.com
+Password: customer.com
+
+
+
